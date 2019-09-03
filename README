@@ -1,6 +1,10 @@
 This repository contains the documentation and materials for running a
 Prometheus and AlertManager workshop.
 
+# Notes :
+
+[![](https://codescene.io/projects/5492/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5492/jobs/latest-successful/results)
+
 # Pre-requisites
 
 The workshop assumes that Docker is installed on your machine.
